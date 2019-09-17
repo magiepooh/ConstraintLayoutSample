@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConstraintSampleApp</string>
+
+    <string name="omakase_simulation_chart_future_description_1">開始金額</string>
+    <string name="omakase_simulation_chart_future_description_2">で毎月</string>
+    <string name="omakase_simulation_chart_future_description_3">積み立てて30年間運用した場合、</string>
+    <string name="omakase_simulation_chart_future_description_4">の確率で</string>
+    <string name="omakase_simulation_chart_future_description_5">になります。</string>
+    <string name="omakase_simulation_chart_future_description_man">%s万円</string>
+    <string name="omakase_simulation_chart_future_description_percent">%s%%</string>
+    <string name="omakase_simulation_chart_future_description_more_man">%s万円以上</string>
+</resources>
