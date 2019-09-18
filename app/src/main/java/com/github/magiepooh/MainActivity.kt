@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         val selectInvestmentStyleAnim = ObjectAnimator.ofFloat(
             binding.layoutSelectPlan,
             View.TRANSLATION_Y, 0f,
-            binding.layoutSelectPlanContent.measuredHeight.toFloat()
+            binding.layoutSelectPlan.measuredHeight.toFloat()
         )
         AnimatorSet().apply {
             duration = 200
